@@ -1,0 +1,5 @@
+Pillow
+reportlab
+exifread
+requests
+pillow-heif; platform_system != "Windows" or platform_machine != "ARM64"

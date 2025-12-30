@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Environments
+.venv/
+venv/
+.env/
+.envrc/
+*.conda
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs / outputs
+*.log
+photolog.pdf
+*_compressed.jpg
